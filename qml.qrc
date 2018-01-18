@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>img/drawer.png</file>
+        <file>img/menu.png</file>
+    </qresource>
+</RCC>
